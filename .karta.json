@@ -3,5 +3,10 @@
     "who": "data",
     "what": "table",
     "value": "b_avarage_price"
+  },
+  {
+    "who": "data",
+    "what": "dataset",
+    "value": "prices"
   }
 ]
